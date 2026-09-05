@@ -1,0 +1,990 @@
+{
+  "channel": "Why Houses Do That",
+  "scripts": [
+    {
+      "id": "banging-pipes",
+      "topic": "Why pipes bang when you shut off a faucet",
+      "hook_style": "question",
+      "hook": "Why do your pipes bang when you turn the water off?",
+      "body": "That bang is called water hammer. Water in a pipe is moving at maybe six feet per second. When a fast-closing valve stops it dead, the whole column slams into the shutoff like a truck hitting a wall. The pipe jumps, hits a joist or a strap, and you hear it. It is worst on washing machines and ice makers because their solenoid valves close in a fraction of a second. Older houses had air chambers, a dead-end pipe stub that cushioned the shock, but those chambers fill with water over the years and stop working. Left alone, hammer loosens fittings and eventually cracks a solder joint behind the drywall.",
+      "fix": "Fix: screw a water hammer arrestor onto the washer hookup, about twenty dollars each, no plumber needed. If the bang is in the walls, add pipe straps or have the old air chambers drained.",
+      "scenes": [
+        "cutaway of a copper water pipe inside a wall with a shockwave ripple stopping at a closed valve, pipe strap pulled loose from a wood stud",
+        "washing machine hookup with a small brass water hammer arrestor screwed onto the hose bib",
+        "cross-section of a vertical dead-end pipe stub above a faucet showing an air pocket cushion",
+        "copper pipe vibrating against a floor joist with a small gap and a loose metal strap"
+      ],
+      "title_a": "Why Your Pipes Bang When the Water Shuts Off",
+      "title_b": "That Bang in Your Walls Is Breaking Your Pipes",
+      "tags": [
+        "water hammer",
+        "banging pipes",
+        "plumbing noise",
+        "washing machine hookup",
+        "home repair",
+        "house noises",
+        "diy plumbing",
+        "why houses do that"
+      ],
+      "affiliate_search": "water hammer arrestor",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "house-creaks-night",
+      "topic": "Why houses creak and pop at night",
+      "hook_style": "question",
+      "hook": "Why does your house creak at night, but never during the day?",
+      "body": "Nothing is wrong. Wood moves. A two by ten floor joist can change width by an eighth of an inch between a humid August and a dry January. Every evening when the heat comes on or the sun goes off the siding, a few hundred boards, nails, and pieces of ductwork all shrink at slightly different rates. Each one slips a hair against its neighbor and releases a tick or a pop. It sounds like footsteps because framing transfers sound along the whole length of a board. Sheet metal ducts are the loudest, they oil-can with a bang the first minute after the furnace kicks on. You notice it at night because the house is finally quiet enough to hear it.",
+      "fix": "Nothing to buy. If one specific pop repeats in the same spot every night, that is usually a duct rubbing a joist. A scrap of foam pipe insulation wedged between them ends it.",
+      "scenes": [
+        "isometric cutaway of a wood-framed floor showing joists and nails with tiny expansion arrows",
+        "sheet metal heating duct flexing between floor joists with sound waves radiating",
+        "house exterior at dusk with siding cooling, subtle contraction lines",
+        "close cross-section of a nail in a wood joist with a hairline gap from seasonal shrinkage"
+      ],
+      "title_a": "Why Your House Creaks at Night (It Is Not Ghosts)",
+      "title_b": "The Real Reason Old Houses Pop and Creak",
+      "tags": [
+        "house creaking",
+        "house noises at night",
+        "wood expansion",
+        "why houses creak",
+        "old house sounds",
+        "home explained",
+        "hvac noise",
+        "why houses do that"
+      ],
+      "affiliate_search": null,
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "sewer-smell-bathroom",
+      "topic": "Why a bathroom smells like sewer sometimes",
+      "hook_style": "inspector_reveal",
+      "hook": "That sewer smell in your bathroom has a two dollar cause.",
+      "body": "Every drain in your house has a P-trap, a U-shaped bend that holds a couple inches of water. That water is the only thing between you and the sewer gas in the pipes. If a fixture goes unused for a few weeks, a guest bathroom, a basement floor drain, a laundry tub, the water in the trap evaporates and the gas walks right in. The smell comes and goes because wind on the roof vent changes the pressure in the drain line. The other classic cause is the wax ring under the toilet. If the toilet rocks even slightly, the seal breaks, and sewer gas leaks around the base with no visible water.",
+      "fix": "Fix: run every unused drain for thirty seconds once a month, and pour a capful of mineral oil in floor drains so the water cannot evaporate. A rocking toilet needs a new wax ring, a forty minute job.",
+      "scenes": [
+        "cross-section of a sink P-trap showing the water seal and sewer gas blocked below",
+        "basement floor drain cutaway with a dried-out trap and gas rising",
+        "toilet base cutaway showing the wax ring seal between the bowl and the flange",
+        "roof plumbing vent stack with wind pressure arrows affecting the drain line"
+      ],
+      "title_a": "Why Your Bathroom Smells Like Sewer (And the 2 Dollar Fix)",
+      "title_b": "The Hidden Reason Your Bathroom Stinks Sometimes",
+      "tags": [
+        "sewer smell",
+        "bathroom smells",
+        "p-trap",
+        "wax ring",
+        "plumbing smell",
+        "dry trap",
+        "why does my house smell",
+        "why houses do that"
+      ],
+      "affiliate_search": "toilet wax ring",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "window-condensation",
+      "topic": "Why windows sweat in winter",
+      "hook_style": "myth_bust",
+      "hook": "Wet windows in winter are not a window problem.",
+      "body": "People replace windows over this every year and the water comes back. Condensation forms when warm indoor air touches a surface that is below its dew point. Glass is the coldest surface in the room, so it gets hit first. The real number is humidity. At twenty degrees outside, even a good double pane window will sweat once indoor humidity passes about forty percent. Where does the moisture come from? Showers, cooking, a dozen houseplants, and breathing, roughly three gallons a day for a family of four. If the water is between the panes, that is a failed seal and the window really is done. If it is on the room side, the window is fine and the house is too wet.",
+      "fix": "Fix: run the bath fan for twenty minutes after every shower, use the range hood, and aim for thirty to forty percent humidity in winter. A ten dollar hygrometer tells you where you stand.",
+      "scenes": [
+        "cutaway of a double pane window with warm indoor air meeting cold glass, condensation droplets on the inside surface",
+        "cross-section showing moisture sources in a house: shower steam, cooking pot, houseplants",
+        "window with fog trapped between the two panes indicating a failed seal",
+        "bathroom exhaust fan pulling humid air up and out through a roof vent"
+      ],
+      "title_a": "Why Your Windows Sweat in Winter (Do Not Replace Them Yet)",
+      "title_b": "Wet Windows Every Morning? Here Is the Actual Cause",
+      "tags": [
+        "window condensation",
+        "wet windows",
+        "humidity",
+        "winter windows",
+        "failed window seal",
+        "indoor humidity",
+        "home moisture",
+        "why houses do that"
+      ],
+      "affiliate_search": "digital hygrometer",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "ceiling-crack-corner",
+      "topic": "Why cracks appear where the wall meets the ceiling",
+      "hook_style": "inspector_reveal",
+      "hook": "A crack along the top of your wall usually means one thing.",
+      "body": "It is called truss uplift, and it scares a lot of homeowners for nothing. In winter, the bottom chord of a roof truss sits buried in warm, dry attic insulation while the top chords sit in cold, damp attic air. The top boards absorb moisture and lengthen, the bottom board stays dry, and the whole truss bows upward. It lifts the ceiling drywall off the interior walls by up to half an inch. The drywall tape tears at the corner, and in summer the crack closes back up. The tell is that it happens on interior walls near the center of the house, not the outside walls, and it moves with the seasons. Diagonal cracks over doors and windows are a different story.",
+      "fix": "Fix: do not just re-tape it. A drywall contractor installs floating corners, or you hide it with crown molding nailed only to the ceiling. Diagonal or widening cracks deserve a structural look.",
+      "scenes": [
+        "cutaway of a roof truss in an attic with the bottom chord buried in insulation and top chords exposed",
+        "exaggerated diagram of a truss bowing upward and lifting ceiling drywall off an interior wall",
+        "close view of drywall tape tearing at a wall to ceiling corner",
+        "crown molding installed at a ceiling corner attached only to the ceiling, floating over the wall"
+      ],
+      "title_a": "Why That Crack Between Your Wall and Ceiling Comes Back",
+      "title_b": "Ceiling Corner Cracks: When to Worry, When to Ignore",
+      "tags": [
+        "ceiling crack",
+        "truss uplift",
+        "drywall crack",
+        "wall ceiling crack",
+        "house settling",
+        "structural crack",
+        "home inspection",
+        "why houses do that"
+      ],
+      "affiliate_search": null,
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "toilet-phantom-flush",
+      "topic": "Why toilets refill by themselves",
+      "hook_style": "confession",
+      "hook": "We call it a phantom flush, and it is costing you about two hundred gallons a day.",
+      "body": "You hear the tank refill for a few seconds when nobody touched it. That is a flapper leak. The rubber flapper at the bottom of the tank has hardened or warped, water seeps into the bowl, the float drops, and the fill valve tops the tank back up. It is silent most of the time, so the water bill is usually the first clue. A leaking flapper wastes anywhere from a few hundred to a thousand gallons a day. Chlorine tank tablets wreck flappers fast, we see it constantly. The other cause is a fill valve set too high, so water spills into the overflow tube nonstop.",
+      "fix": "Fix: put a few drops of food coloring in the tank and wait fifteen minutes. Color in the bowl means a new flapper, about eight dollars and no tools. Stop using drop-in tank tablets.",
+      "scenes": [
+        "cutaway of a toilet tank showing the flapper, fill valve, float, and overflow tube",
+        "close view of a warped rubber flapper letting a thin stream of water into the bowl",
+        "toilet tank with a dye test, colored water seeping past the flapper into the bowl",
+        "fill valve set too high with water spilling over the top of the overflow tube"
+      ],
+      "title_a": "Why Your Toilet Flushes By Itself (200 Gallons a Day)",
+      "title_b": "The Toilet Leak You Cannot See Is On Your Water Bill",
+      "tags": [
+        "toilet running",
+        "phantom flush",
+        "toilet flapper",
+        "water bill high",
+        "toilet leak",
+        "fill valve",
+        "diy plumbing",
+        "why houses do that"
+      ],
+      "affiliate_search": "toilet flapper",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "cold-room",
+      "topic": "Why one room is always colder than the rest",
+      "hook_style": "countdown",
+      "hook": "Three reasons one room in your house is always freezing.",
+      "body": "Number three, it is at the end of the duct run. Air takes the easiest path, and the last register on a long branch gets whatever is left, sometimes half the airflow of the first one. Number two, the room is over a garage or a cantilever. Builders routinely leave the floor cavity under those rooms poorly insulated, and cold air pours across the underside of the floor. Number one, and this is the big one, the return. If the room has a supply register but the door is closed and there is no return path, the room pressurizes, air stops flowing in, and it goes cold. A door undercut of less than half an inch is a red flag.",
+      "fix": "Fix: partially close dampers on the first registers to push air down the line, and trim the door or add a transfer grille. Rooms over garages need the floor cavity air sealed and insulated.",
+      "scenes": [
+        "isometric cutaway of a house showing a long duct run with airflow weakening toward the last room",
+        "cross-section of a bedroom above a garage with an uninsulated floor cavity and cold air arrows",
+        "closed bedroom door with a supply register blowing in and no return path, pressure arrows",
+        "a duct damper lever partially closed near the furnace plenum"
+      ],
+      "title_a": "Why One Room in Your House Is Always Cold",
+      "title_b": "The Cold Bedroom Problem Explained by a Contractor",
+      "tags": [
+        "cold room",
+        "uneven heating",
+        "hvac airflow",
+        "room over garage",
+        "duct damper",
+        "return air",
+        "home comfort",
+        "why houses do that"
+      ],
+      "affiliate_search": "door transfer grille",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "gfci-trips",
+      "topic": "Why outlets in the bathroom and outside keep tripping",
+      "hook_style": "question",
+      "hook": "Why does that outlet with the buttons keep shutting off?",
+      "body": "That is a GFCI, and it is not defective. A GFCI compares the current going out on the hot wire with the current coming back on the neutral. If they differ by more than five thousandths of an amp, it assumes electricity is leaking somewhere, maybe through you, and it cuts off in about a thirtieth of a second. Outdoor and garage GFCIs trip constantly for one reason: moisture. A little water in the box, a corroded extension cord end, a fridge in a damp garage with a compressor leaking current to ground. One GFCI usually protects several downstream outlets, so the dead outlet in your bedroom may be tripped in the garage. GFCIs also wear out, roughly ten to fifteen years.",
+      "fix": "Fix: press reset. If it will not hold, unplug everything on that circuit and plug back one at a time. The device that trips it is the problem. If it trips with nothing plugged in, replace the GFCI, or call an electrician.",
+      "scenes": [
+        "cutaway of a GFCI outlet showing hot and neutral wires with a comparison sensor inside",
+        "outdoor outlet cover with rainwater droplets inside the box",
+        "diagram of one GFCI outlet protecting a chain of downstream outlets through a house",
+        "a garage refrigerator plugged into a wall outlet with a small current leak arrow to ground"
+      ],
+      "title_a": "Why Your GFCI Outlet Keeps Tripping",
+      "title_b": "The Outlet That Keeps Shutting Off Is Doing Its Job",
+      "tags": [
+        "gfci tripping",
+        "outlet keeps tripping",
+        "gfci outlet",
+        "bathroom outlet",
+        "garage outlet",
+        "electrical basics",
+        "home electrical",
+        "why houses do that"
+      ],
+      "affiliate_search": "outlet tester",
+      "safety_note": "Never open a breaker panel or work on live wiring yourself. Replacing a GFCI is an electrician job unless you know how to verify power is off.",
+      "status": "queued"
+    },
+    {
+      "id": "musty-basement",
+      "topic": "Why basements smell musty",
+      "hook_style": "inspector_reveal",
+      "hook": "That musty basement smell is telling you the humidity number.",
+      "body": "Musty smell is mold and mildew off-gassing, and it starts once relative humidity sits above about sixty percent for a few days. Basements get there two ways. The obvious one is water coming in through the walls or floor. The one people miss is summer air. Warm humid outside air comes in through the rim joist and open windows, hits a concrete wall that is fifty five degrees, and the moisture drops out of the air right onto the wall. That is why basements smell worse in July than in March. Carpet on concrete makes it far worse, it traps moisture against a cold slab.",
+      "fix": "Fix: close basement windows in summer, run a dehumidifier set to fifty percent, and get rid of carpet on slab. If a meter shows the wall itself is wet after rain, that is a drainage problem, start with the gutters.",
+      "scenes": [
+        "cutaway of a basement with warm humid air entering at the rim joist and condensing on a cool concrete wall",
+        "a dehumidifier in a basement corner with a humidity readout at fifty percent",
+        "cross-section of carpet laid directly on a concrete slab trapping moisture underneath",
+        "house exterior with a downspout dumping water next to the foundation wall"
+      ],
+      "title_a": "Why Your Basement Smells Musty Every Summer",
+      "title_b": "The Musty Basement Fix Most People Get Backwards",
+      "tags": [
+        "musty basement",
+        "basement smell",
+        "basement humidity",
+        "dehumidifier",
+        "mold smell",
+        "basement moisture",
+        "why does my house smell",
+        "why houses do that"
+      ],
+      "affiliate_search": "basement dehumidifier 50 pint",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "furnace-short-cycle",
+      "topic": "Why the furnace turns on and off every few minutes",
+      "hook_style": "question",
+      "hook": "Why does your furnace keep starting and stopping?",
+      "body": "That is short cycling, and the number one cause is embarrassingly simple: a clogged filter. When the filter is choked, not enough air moves across the heat exchanger, the exchanger overheats, and a high-limit switch shuts the burner down to protect it. It cools, restarts, overheats again, all day. A furnace that should run ten to fifteen minutes per cycle runs two or three. Other causes are closed registers, a blocked flue, a dirty flame sensor that drops the flame after a few seconds, or a furnace that is simply oversized for the house. Short cycling roughly doubles the wear on the igniter and blower.",
+      "fix": "Fix: check the filter first, replace it if you cannot see light through it. Open every register. If it still cycles, the flame sensor gets cleaned with a dollar bill by a tech, a cheap service call.",
+      "scenes": [
+        "cutaway of a gas furnace showing a clogged air filter and the heat exchanger glowing hot",
+        "diagram of a high-limit switch cutting the burner when the exchanger overheats",
+        "a furnace filter held up to light, one clogged and dark and one clean",
+        "close view of a furnace flame sensor rod coated with white oxidation"
+      ],
+      "title_a": "Why Your Furnace Keeps Turning On and Off",
+      "title_b": "Furnace Short Cycling: The Ten Dollar Cause",
+      "tags": [
+        "furnace short cycling",
+        "furnace turns on and off",
+        "furnace filter",
+        "hvac repair",
+        "heating problems",
+        "furnace troubleshooting",
+        "home heating",
+        "why houses do that"
+      ],
+      "affiliate_search": "furnace filter 16x25x1",
+      "safety_note": "Do not open the burner compartment while the furnace is running. Gas furnace repairs beyond a filter change should be done by a technician.",
+      "status": "queued"
+    },
+    {
+      "id": "door-sticks-summer",
+      "topic": "Why doors stick in summer and swing free in winter",
+      "hook_style": "myth_bust",
+      "hook": "Your sticking door is not the house settling.",
+      "body": "Every summer the bathroom door sticks, every winter it swings freely. That is wood absorbing moisture. A solid wood door can grow an eighth of an inch across its width between dry winter air and humid summer air. Painted edges slow it down, but most doors have a bare top and bottom edge, which is where the moisture gets in. Real settling shows up differently: the gap at the top of the door is uneven, wider on one side than the other, and it does not change with the seasons. Also check the hinges. Loose top hinge screws let the door sag and rub the latch side, and people blame the foundation for a three dollar screw.",
+      "fix": "Fix: tighten hinge screws first, replace the top ones with three inch screws into the framing. If it still sticks in summer, plane or sand the rubbing edge and seal all six sides with paint.",
+      "scenes": [
+        "cutaway of a solid wood interior door with moisture arrows entering the bare top and bottom edges",
+        "door frame diagram showing an even gap that closes in summer and opens in winter",
+        "a door with an uneven gap at the top, wide on one side, indicating sag or settling",
+        "close view of a door hinge with a long screw driven through the jamb into the wall stud"
+      ],
+      "title_a": "Why Doors Stick in Summer (Not Your Foundation)",
+      "title_b": "Sticking Door? Check This Before Blaming the House",
+      "tags": [
+        "door sticks",
+        "sticking door",
+        "house settling",
+        "wood expansion",
+        "door hinge",
+        "door sag",
+        "home repair",
+        "why houses do that"
+      ],
+      "affiliate_search": "3 inch wood screws",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "attic-frost",
+      "topic": "Why there is frost on the underside of the roof in winter",
+      "hook_style": "inspector_reveal",
+      "hook": "Frost inside your attic means your house is leaking air upward.",
+      "body": "Warm moist air from the living space rises through every gap it can find: recessed lights, the attic hatch, plumbing and wire holes in the top plates, the bath fan that dumps into the attic instead of outside. That air hits the cold underside of the roof sheathing and the moisture freezes on the nails and the plywood. On a sunny day it melts and drips, and people think the roof leaks. Over years it rots the sheathing and grows mold. The dead giveaway is frost on the nail tips, a thousand little white dots. Adding attic insulation without air sealing makes this worse, because the attic gets even colder.",
+      "fix": "Fix: air seal before you insulate. Foam around light fixtures and pipe penetrations, weatherstrip the attic hatch, and make sure every bath fan duct runs outside. Then add insulation.",
+      "scenes": [
+        "cutaway of an attic showing warm air rising through gaps around recessed lights and the hatch",
+        "underside of roof sheathing with frost crystals on hundreds of nail tips",
+        "bathroom exhaust fan duct terminating inside an attic, dumping moist air onto insulation",
+        "spray foam sealing a gap where a plumbing pipe passes through the top plate of a wall"
+      ],
+      "title_a": "Why There Is Frost Inside Your Attic",
+      "title_b": "Attic Frost: The Roof Leak That Is Not a Roof Leak",
+      "tags": [
+        "attic frost",
+        "attic condensation",
+        "air sealing",
+        "attic moisture",
+        "roof leak",
+        "attic insulation",
+        "bathroom fan",
+        "why houses do that"
+      ],
+      "affiliate_search": "attic air sealing foam",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "water-heater-rumble",
+      "topic": "Why a water heater rumbles and pops",
+      "hook_style": "question",
+      "hook": "Why does your water heater sound like popcorn?",
+      "body": "That rumble is sediment. Minerals in the water settle to the bottom of the tank, and in a hard water area you can get an inch of it in a couple of years. On a gas heater the burner is under that layer. Water trapped inside the sediment superheats, flashes to steam, and the bubble bursts up through the sludge with a pop. Each pop is a tiny hammer on the tank bottom. The sediment also insulates the water from the burner, so the tank runs longer, the bottom overheats, and the glass lining cracks. A rumbling heater that is more than ten years old is usually on its way out.",
+      "fix": "Fix: flush the tank once a year through the drain valve at the bottom until it runs clear. If it has never been flushed, do it gently, a heavy first flush can open a leak in a weak tank.",
+      "scenes": [
+        "cutaway of a gas water heater with a thick layer of sediment on the bottom and steam bubbles popping",
+        "close view of superheated water trapped under mineral sludge above a burner flame",
+        "a garden hose attached to the drain valve at the bottom of a water heater, cloudy water flowing out",
+        "cross-section of a corroded tank bottom with a crack in the glass lining"
+      ],
+      "title_a": "Why Your Water Heater Rumbles and Pops",
+      "title_b": "That Popcorn Sound Means Your Water Heater Is Dying",
+      "tags": [
+        "water heater noise",
+        "water heater rumbling",
+        "water heater popping",
+        "sediment flush",
+        "hard water",
+        "water heater maintenance",
+        "plumbing",
+        "why houses do that"
+      ],
+      "affiliate_search": "water heater flush hose",
+      "safety_note": "Turn the gas valve to pilot or the breaker off before flushing. Water in the tank is scalding.",
+      "status": "queued"
+    },
+    {
+      "id": "ice-dams",
+      "topic": "Why icicles form on some houses and not others",
+      "hook_style": "myth_bust",
+      "hook": "Big icicles are not a sign of a well insulated house. It is the opposite.",
+      "body": "Icicles and ice dams form when the roof deck is above freezing while the eaves are below. Heat escaping from the house melts the snow up top, the water runs down to the cold overhang, refreezes, and builds a ridge of ice. Water backs up behind the ridge, gets under the shingles, and shows up as a stain on the bedroom ceiling. The heat gets to the roof through the same leaks that cause attic frost: light fixtures, the hatch, thin insulation at the edges, ducts in the attic. Houses with a clean snow blanket and no icicles are the ones doing it right.",
+      "fix": "Fix: heat cables are a band-aid. The real fix is air sealing and adding insulation so the attic stays as cold as outside, plus clear soffit vents. Rake the first few feet of snow off after big storms.",
+      "scenes": [
+        "cutaway of a house roof edge showing heat escaping the attic, melting snow, and ice building at the eave",
+        "water backing up behind an ice dam and seeping under shingles into the wall",
+        "cross-section comparing a warm leaky attic with icicles and a cold well-sealed attic with even snow",
+        "soffit vent and baffle allowing cold outside air to flow into the attic at the eaves"
+      ],
+      "title_a": "Why Your House Gets Icicles and Your Neighbor Does Not",
+      "title_b": "Ice Dams Explained: Your Roof Is Too Warm",
+      "tags": [
+        "ice dams",
+        "icicles",
+        "roof leak winter",
+        "attic insulation",
+        "air sealing",
+        "winter home problems",
+        "roof ice",
+        "why houses do that"
+      ],
+      "affiliate_search": "roof snow rake",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "outlet-warm",
+      "topic": "Why an outlet or switch feels warm",
+      "hook_style": "inspector_reveal",
+      "hook": "A warm outlet is one of the few things we tell people not to wait on.",
+      "body": "A dimmer switch that is a little warm is normal, dimmers waste heat by design. Anything else warm is resistance. A loose wire under a screw, or a backstab connection where the wire is just pushed into a hole in the back of the outlet, makes a poor contact. Current squeezes through a tiny spot and that spot heats up. The heat oxidizes the metal, resistance climbs, and the cycle feeds itself. This is how outlet fires start, and it can smolder inside the box for months. Discoloration around the slots, a faint fishy or plastic smell, or a plug that feels loose when you push it in are the other signs.",
+      "fix": "Fix: stop using the outlet. Have an electrician move the wires from the backstabs to the side screws or replace the receptacle, a fifteen minute job. Do not open it yourself.",
+      "scenes": [
+        "cutaway of a wall outlet box showing a wire pushed into a backstab hole with a glowing hot spot",
+        "close view of a discolored brown outlet face around the slots",
+        "a dimmer switch plate with mild heat waves, labeled as normal",
+        "an electrician with pliers wrapping a wire around a side terminal screw on a receptacle"
+      ],
+      "title_a": "Why a Warm Outlet Is a Warning Sign",
+      "title_b": "The Outlet Fire That Starts Behind Your Wall",
+      "tags": [
+        "warm outlet",
+        "outlet hot",
+        "electrical fire",
+        "backstab outlet",
+        "loose wiring",
+        "home electrical safety",
+        "outlet smell",
+        "why houses do that"
+      ],
+      "affiliate_search": "outlet tester",
+      "safety_note": "Never open outlets or switches yourself. A warm or discolored outlet needs a licensed electrician.",
+      "status": "queued"
+    },
+    {
+      "id": "water-stain-ceiling-no-leak",
+      "topic": "Why a ceiling stain appears with no roof leak",
+      "hook_style": "question",
+      "hook": "Why is there a stain on the ceiling when the roof does not leak?",
+      "body": "Roofers get called for this and find nothing, because the water usually is not rain. The first suspect is the bathroom above. A toilet wax ring or a tub drain overflow leaks only when used, so it shows up as a stain that grows slowly. Second is a plumbing vent or a duct. Bath fan ducts sweat in cold attics and drip right back down through the fan housing. Third is condensation on an uninsulated cold water line or an AC line set in the ceiling in summer. If the stain appears in winter or during humid weather rather than after rain, it is almost never the roof.",
+      "fix": "Fix: note when it grows. After showers, check the bathroom drains. If it is summer or after cold snaps, insulate the duct or pipe above it. Only if it tracks rainfall do you call a roofer.",
+      "scenes": [
+        "cutaway of a two story house showing a stained ceiling below a bathroom with a leaking tub drain",
+        "bath fan duct in a cold attic with condensation droplets dripping back down onto the fan housing",
+        "an uninsulated cold water pipe above a ceiling sweating in summer humidity",
+        "a homeowner marking the edge of a ceiling stain with pencil and a date to track growth"
+      ],
+      "title_a": "Ceiling Stain But No Roof Leak? Here Is Where It Comes From",
+      "title_b": "The Ceiling Water Stain That Is Not From Rain",
+      "tags": [
+        "ceiling stain",
+        "water stain ceiling",
+        "roof leak",
+        "bathroom leak",
+        "condensation",
+        "home inspection",
+        "water damage",
+        "why houses do that"
+      ],
+      "affiliate_search": "pipe insulation foam",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "dryer-takes-forever",
+      "topic": "Why the dryer takes two cycles to dry clothes",
+      "hook_style": "confession",
+      "hook": "We pull about a coffee can of lint out of dryer vents on half the houses we work on.",
+      "body": "A dryer works by pushing hot wet air out of the house. If the vent is restricted, the air stays, the clothes stay damp, and the dryer runs twice as long. The lint screen catches maybe seventy percent, the rest goes down the duct. Flexible foil duct is the worst offender, every ridge grabs lint, and a run with two or three elbows is nearly guaranteed to clog. The other tell is the vent flap outside: if it barely opens while the dryer is running, the airflow is choked. Lint is also the leading cause of dryer fires, so this is not just an electric bill issue.",
+      "fix": "Fix: clean the full duct once a year with a brush kit, replace foil flex with rigid metal duct, and keep the run under twenty five feet. Check that the outside flap swings fully open.",
+      "scenes": [
+        "cutaway of a dryer duct run through a wall with thick lint packed at the elbows",
+        "close view of ridged foil flex duct with lint caught in every ridge",
+        "an outdoor dryer vent flap barely open with weak airflow arrows",
+        "a rotating brush dryer vent cleaning kit inserted into a duct"
+      ],
+      "title_a": "Why Your Dryer Takes Two Cycles (And Why It Is Dangerous)",
+      "title_b": "The Dryer Problem That Doubles Your Electric Bill",
+      "tags": [
+        "dryer takes long",
+        "dryer vent clogged",
+        "dryer vent cleaning",
+        "lint fire",
+        "laundry room",
+        "dryer not drying",
+        "home maintenance",
+        "why houses do that"
+      ],
+      "affiliate_search": "dryer vent cleaning kit",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "foundation-hairline-crack",
+      "topic": "Why foundations get hairline cracks",
+      "hook_style": "myth_bust",
+      "hook": "Not every foundation crack is a foundation problem.",
+      "body": "Poured concrete shrinks as it cures, about a sixteenth of an inch for every ten feet. It has to crack somewhere, so nearly every poured foundation has a few vertical hairline cracks, usually near corners or under windows. Those are shrinkage cracks. They are thin, they do not change, and they matter only if they leak water. Horizontal cracks are different. A horizontal crack running along a wall a few feet below grade means soil pressure is pushing the wall inward, and that needs an engineer. Stair-step cracks in block walls, cracks wider at the top than the bottom, or a crack you can slide a nickel into are the other flags.",
+      "fix": "Fix: mark the ends of a hairline crack with a date. If it does not grow in a year, it is done moving. Weeping cracks get an epoxy or urethane injection. Horizontal or widening cracks get an engineer.",
+      "scenes": [
+        "poured concrete foundation wall with a thin vertical shrinkage crack below a basement window",
+        "horizontal crack along a basement wall with soil pressure arrows pushing inward from outside",
+        "concrete block foundation wall with a stair-step crack following the mortar joints",
+        "a nickel coin held against a crack in concrete as a width gauge"
+      ],
+      "title_a": "Foundation Cracks: Which Ones Actually Matter",
+      "title_b": "The Foundation Crack Test Contractors Use",
+      "tags": [
+        "foundation crack",
+        "basement crack",
+        "concrete crack",
+        "structural crack",
+        "home inspection",
+        "foundation repair",
+        "hairline crack",
+        "why houses do that"
+      ],
+      "affiliate_search": "concrete crack injection kit",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "hot-water-slow",
+      "topic": "Why hot water takes a minute to reach the shower",
+      "hook_style": "question",
+      "hook": "Why does it take so long for the shower to get hot?",
+      "body": "Every pipe between the water heater and the shower is full of water that went cold overnight. You have to push all of it out before hot water arrives. A three quarter inch line holds about two and a half gallons per hundred feet, so a heater on the far side of the house can mean a gallon or two down the drain every single time. Bigger pipes make it worse, not better, because they hold more cold water. Uninsulated pipes in a crawlspace lose heat within minutes, so even a second shower ten minutes later starts cold again.",
+      "fix": "Fix: insulate the hot lines, cheap foam sleeves. For a real fix, a recirculation pump with a timer keeps hot water at the fixture, about two hundred dollars for a retrofit kit that installs under the far sink.",
+      "scenes": [
+        "isometric cutaway of a house showing a long hot water pipe run from the heater to a distant bathroom",
+        "cross-section of a pipe full of cooled water with hot water pushing it forward",
+        "foam pipe insulation sleeves on hot water lines in a crawlspace",
+        "a small recirculation pump kit mounted under a bathroom sink with a crossover valve"
+      ],
+      "title_a": "Why Hot Water Takes Forever to Reach Your Shower",
+      "title_b": "You Are Flushing Two Gallons Every Time You Shower",
+      "tags": [
+        "hot water slow",
+        "hot water takes long",
+        "recirculation pump",
+        "pipe insulation",
+        "water heater",
+        "plumbing explained",
+        "water waste",
+        "why houses do that"
+      ],
+      "affiliate_search": "hot water recirculating pump kit",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "paint-peeling-bathroom",
+      "topic": "Why bathroom paint peels and bubbles",
+      "hook_style": "question",
+      "hook": "Why does bathroom paint peel no matter how many times you repaint?",
+      "body": "Paint peels in bathrooms because moisture gets behind it. Steam soaks into the drywall through hairline gaps, especially above the shower and around the window, then when the room dries, the water tries to leave through the paint film and lifts it off. Repainting over that just adds another layer to peel. Flat paint makes it worse because it is porous. The other cause is painting over a surface with soap film or leftover mildew, nothing sticks to it. If the fan is undersized or vents into the attic, the room never dries out between showers.",
+      "fix": "Fix: scrape, sand, wash with a TSP substitute, prime with a stain-blocking primer, then use a bathroom-rated satin or semi-gloss. And run the fan for twenty minutes after each shower.",
+      "scenes": [
+        "cross-section of painted drywall with moisture entering behind the paint film and lifting it into a bubble",
+        "bathroom ceiling above a shower with peeling paint and steam rising",
+        "a bathroom exhaust fan with a timer switch on the wall",
+        "paint cans labeled primer and satin bathroom paint next to a scraper and sanding block"
+      ],
+      "title_a": "Why Bathroom Paint Peels (And How to Stop It for Good)",
+      "title_b": "Stop Repainting Your Bathroom Ceiling Every Year",
+      "tags": [
+        "peeling paint",
+        "bathroom paint",
+        "paint bubbling",
+        "bathroom humidity",
+        "bathroom fan",
+        "painting tips",
+        "home repair",
+        "why houses do that"
+      ],
+      "affiliate_search": "bathroom fan timer switch",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "floor-bounce",
+      "topic": "Why floors bounce or dishes rattle when you walk",
+      "hook_style": "inspector_reveal",
+      "hook": "A bouncy floor is usually about span, not strength.",
+      "body": "Floors flex. Building code allows a joist to deflect about a third of an inch over a twelve foot span under full load, and that is enough to rattle a china cabinet. Older houses with two by eights spanning fourteen feet bounce a lot, and it feels alarming, but the wood is not failing. What makes bounce worse is missing bridging or blocking between joists, so each joist moves on its own instead of sharing the load. A notched or drilled joist, usually from a plumber running a drain, is the one that turns a bouncy floor into a sagging one. Bounce with a sag or a crack in the ceiling below is the version that matters.",
+      "fix": "Fix: add solid blocking between joists at mid span, or sister a new joist alongside a weak one. A cheap fix for a chronic bounce is a steel adjustable post under a beam in the basement.",
+      "scenes": [
+        "cutaway of a floor with joists deflecting slightly under a person walking, a china cabinet vibrating",
+        "floor joists with solid wood blocking installed between them at mid span",
+        "a floor joist with a large notch cut for a drain pipe, showing a stress crack",
+        "an adjustable steel post supporting a wood beam in a basement"
+      ],
+      "title_a": "Why Your Floor Bounces When You Walk",
+      "title_b": "Bouncy Floors: Normal or Dangerous?",
+      "tags": [
+        "bouncy floor",
+        "floor bounce",
+        "floor joist",
+        "house structure",
+        "sagging floor",
+        "home inspection",
+        "floor repair",
+        "why houses do that"
+      ],
+      "affiliate_search": null,
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "ac-drips-water",
+      "topic": "Why the AC leaks water inside",
+      "hook_style": "question",
+      "hook": "Why is water dripping from your air conditioner inside the house?",
+      "body": "Your AC pulls gallons of water out of the air every day, and it all has to leave through one small drain line. That line grows a slime of algae and dust, clogs, and the drain pan overflows onto the ceiling or the floor. A furnace closet with a water stain on the floor in July is this ninety percent of the time. The other causes are a frozen coil that thaws in a rush, usually from a dirty filter or low refrigerant, or a drain pan that has rusted through. Systems in the attic are the dangerous ones because the overflow comes through the bedroom ceiling.",
+      "fix": "Fix: find the condensate line, a PVC pipe with a T fitting, and pour a cup of vinegar in every month. If it is already clogged, a wet vac on the outside end pulls the clog out. A float switch, twenty dollars, shuts the unit off before it overflows.",
+      "scenes": [
+        "cutaway of an indoor air handler showing the evaporator coil dripping water into a drain pan and a clogged condensate line",
+        "close view of a PVC condensate drain with green slime inside the pipe",
+        "a shop vacuum attached to the outdoor end of a condensate drain line",
+        "a float switch installed on the drain pan of an air handler in an attic"
+      ],
+      "title_a": "Why Your AC Is Leaking Water Inside",
+      "title_b": "The AC Drain Clog That Ruins Ceilings Every Summer",
+      "tags": [
+        "ac leaking water",
+        "ac drain line",
+        "condensate line",
+        "air conditioner leak",
+        "hvac maintenance",
+        "frozen ac coil",
+        "summer home problems",
+        "why houses do that"
+      ],
+      "affiliate_search": "ac condensate float switch",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "gutter-overflow",
+      "topic": "Why gutters overflow even when they are clean",
+      "hook_style": "myth_bust",
+      "hook": "Clean gutters still overflow, and it is usually the pitch.",
+      "body": "A gutter has to slope about a quarter inch for every ten feet toward the downspout. Over the years the hangers loosen, the gutter sags in the middle, and water pools and pours over the front edge. The other cause is the drip edge. If the shingles do not extend over the gutter, or the flashing is missing, rain runs down behind the gutter, rots the fascia, and drips off the back. And in a hard rain, a single two by three downspout simply cannot drain a long roof section fast enough. The water that comes over the edge lands next to the foundation, which is where basement leaks come from.",
+      "fix": "Fix: sight down the gutter after rain and look for standing water, then re-hang with screw-in hidden hangers. Add a second downspout on long runs, and upgrade to three by four downspouts.",
+      "scenes": [
+        "cross-section of a gutter sagging in the middle with standing water and overflow at the front edge",
+        "roof edge detail showing rain running behind a gutter due to missing drip edge flashing, rotting the fascia",
+        "comparison of a small two by three downspout and a larger three by four downspout with flow arrows",
+        "gutter overflow splashing onto the ground next to a foundation wall with water seeping down"
+      ],
+      "title_a": "Why Clean Gutters Still Overflow",
+      "title_b": "Gutters Overflowing? It Is Probably Not Leaves",
+      "tags": [
+        "gutters overflowing",
+        "gutter pitch",
+        "downspout",
+        "drip edge",
+        "fascia rot",
+        "basement leak",
+        "roof drainage",
+        "why houses do that"
+      ],
+      "affiliate_search": "gutter hidden hangers screw",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "light-flicker",
+      "topic": "Why lights flicker when the AC or fridge starts",
+      "hook_style": "question",
+      "hook": "Why do the lights dip when the air conditioner kicks on?",
+      "body": "A motor pulls several times its normal current for a fraction of a second at startup. An AC compressor might draw sixty amps for a moment. That surge causes a brief voltage drop across the wiring, and the lights dim. A quick blink when a big motor starts is normal on most houses. What is not normal is flickering that happens randomly, or lights that get brighter while others get dimmer. That points to a loose neutral, often at the meter or panel, and it can cook electronics and start fires. Corroded connections at the utility service drop are a common cause in older homes.",
+      "fix": "Fix: a blink only on motor start is fine, a hard-start capacitor on the AC softens it. Random flicker or bright-and-dim behavior is a same-day electrician call, and the utility may need to check the service drop.",
+      "scenes": [
+        "diagram of a house electrical panel with a large startup current surge flowing to an outdoor AC compressor",
+        "a ceiling light bulb dimming briefly with a small voltage dip graph",
+        "cutaway of a loose neutral connection at a meter base with corrosion",
+        "a hard start capacitor kit mounted inside an outdoor AC condenser unit"
+      ],
+      "title_a": "Why Your Lights Flicker When the AC Turns On",
+      "title_b": "Flickering Lights: Normal vs. Call an Electrician Today",
+      "tags": [
+        "lights flicker",
+        "lights dim ac",
+        "loose neutral",
+        "electrical problem",
+        "voltage drop",
+        "home electrical",
+        "flickering lights",
+        "why houses do that"
+      ],
+      "affiliate_search": null,
+      "safety_note": "Bright-and-dim flickering across different rooms can indicate a loose neutral. Do not investigate the panel yourself; call an electrician.",
+      "status": "queued"
+    },
+    {
+      "id": "garage-smell-in-house",
+      "topic": "Why the house smells like the garage",
+      "hook_style": "inspector_reveal",
+      "hook": "If you smell the garage inside, your house is pulling air from it.",
+      "body": "A house under negative pressure sucks air in through every gap, and the garage is the biggest gap. The furnace, dryer, range hood, and bath fans all push air out, and it has to come back from somewhere. The wall between a garage and the house is supposed to be sealed and the door weatherstripped, but plumbing and wiring holes, an un-gasketed door, and rooms above the garage with open floor cavities let exhaust, gasoline vapor, and lawn chemicals right in. Carbon monoxide from a car warming up rides the same path. Rooms above garages smell it first.",
+      "fix": "Fix: foam and caulk every penetration on the garage side of the shared wall, install a self-closing door with a full gasket, and never warm up the car in the garage. Put a CO detector in the room above.",
+      "scenes": [
+        "cutaway of a house with air being drawn from the garage into living space through gaps in the shared wall",
+        "close view of a wiring hole in a garage wall with fumes passing through into the house",
+        "a garage to house door with a self-closing hinge and weatherstripping gasket",
+        "a carbon monoxide detector mounted in a bedroom above a garage"
+      ],
+      "title_a": "Why Your House Smells Like the Garage",
+      "title_b": "The Garage Air Leak That Can Be Dangerous",
+      "tags": [
+        "garage smell",
+        "house smells like gas",
+        "garage air leak",
+        "carbon monoxide",
+        "air sealing",
+        "attached garage",
+        "why does my house smell",
+        "why houses do that"
+      ],
+      "affiliate_search": "carbon monoxide detector",
+      "safety_note": "Never run a vehicle in an attached garage, even with the door open. Install a CO detector in adjacent rooms.",
+      "status": "queued"
+    },
+    {
+      "id": "shower-drain-slow",
+      "topic": "Why shower drains slow down and how they really clog",
+      "hook_style": "confession",
+      "hook": "Every slow shower drain we open has the same thing inside.",
+      "body": "Hair. But not the way people think. Hair does not clog the pipe, it catches on the crossbars of the drain and on the rough edge where the drain meets the trap, then soap scum and skin oils bind it into a mat. That mat sits in the first six inches. Chemical drain cleaners rarely reach it in force and they eat older metal traps. The reason it comes back every few months is that a few strands survive each cleaning and become the anchor for the next mat. If the tub and the sink both drain slowly, the problem is further down, in the branch line or the main.",
+      "fix": "Fix: a plastic barbed drain strip, about three dollars, pulls the mat out in ten seconds. Do it monthly. A hair-catching drain cover prevents it. Multiple slow drains means a plumber with a snake.",
+      "scenes": [
+        "cutaway of a shower drain and P-trap with a mat of hair and soap scum caught on the drain crossbars",
+        "close view of a plastic barbed drain cleaning strip pulling a hair clog out of a drain",
+        "a stainless mesh hair catcher sitting over a shower drain",
+        "diagram of a bathroom branch drain line with a deeper clog affecting both the tub and sink"
+      ],
+      "title_a": "Why Your Shower Drain Clogs Every Few Months",
+      "title_b": "The Shower Drain Fix That Costs Three Dollars",
+      "tags": [
+        "slow shower drain",
+        "hair clog",
+        "drain cleaning",
+        "shower drain",
+        "clogged drain",
+        "bathroom plumbing",
+        "diy plumbing",
+        "why houses do that"
+      ],
+      "affiliate_search": "drain hair catcher",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "nail-pops",
+      "topic": "Why nail heads pop out of the walls and ceiling",
+      "hook_style": "question",
+      "hook": "Why do little bumps keep appearing in your drywall?",
+      "body": "Those are nail pops. When a house is framed, the lumber can be twenty percent moisture. As it dries over the first couple of years, the studs and joists shrink and twist slightly. The drywall does not move with them, so the nail head is left proud, pushing a little dome of joint compound out. Ceilings get them worst because joists shrink the most and truss uplift adds movement every winter. They are cosmetic, and every new house gets them. The exception is a row of pops along one wall with a crack, which can mean the framing behind it moved more than it should.",
+      "fix": "Fix: do not hammer it back in, it will pop again. Drive a drywall screw an inch above and below the pop, then set the old nail, patch with two coats of compound, sand, and paint.",
+      "scenes": [
+        "cross-section of drywall on a wood stud showing the stud shrinking and a nail head pushing a bump through the surface",
+        "close view of a nail pop bump on a painted ceiling",
+        "a drywall screw being driven just above a nail pop to pin the drywall back to the framing",
+        "a patched nail pop with a thin layer of joint compound and a putty knife"
+      ],
+      "title_a": "Why Nail Pops Appear in Your Walls",
+      "title_b": "Those Bumps in Your Drywall Explained",
+      "tags": [
+        "nail pops",
+        "drywall repair",
+        "drywall bumps",
+        "new house problems",
+        "house settling",
+        "drywall crack",
+        "home repair",
+        "why houses do that"
+      ],
+      "affiliate_search": "drywall repair kit",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "water-pressure-drop",
+      "topic": "Why water pressure drops when someone flushes",
+      "hook_style": "question",
+      "hook": "Why does the shower go weak when someone flushes the toilet?",
+      "body": "Pressure and flow are different things. Your house pressure might be sixty psi, but if the pipe feeding the bathroom is half inch and it is corroded galvanized steel, it can only deliver so many gallons per minute. When the toilet fill valve opens it takes a share, and the shower gets what is left. Old galvanized pipe is the usual culprit; inside, rust narrows a half inch pipe to the size of a pencil. A partly closed main shutoff, a clogged whole-house filter, or a failing pressure regulator does the same thing to the whole house.",
+      "fix": "Fix: check the main shutoff is fully open and change any filter. A pressure gauge on the hose bib, ten dollars, tells you if it is pressure or flow. Galvanized pipe eventually gets replaced with PEX, room by room is fine.",
+      "scenes": [
+        "cross-section of an old galvanized steel pipe with rust narrowing the inside opening to a small hole",
+        "diagram of a bathroom with a toilet fill valve and a shower sharing one half inch supply branch",
+        "a water pressure gauge screwed onto an outdoor hose bib reading sixty psi",
+        "comparison of new PEX tubing beside a corroded galvanized pipe section"
+      ],
+      "title_a": "Why Your Shower Loses Pressure When the Toilet Flushes",
+      "title_b": "Low Water Pressure: Is It Pressure or Is It Your Pipes?",
+      "tags": [
+        "low water pressure",
+        "water pressure drop",
+        "galvanized pipe",
+        "pex repipe",
+        "shower pressure",
+        "plumbing explained",
+        "old house plumbing",
+        "why houses do that"
+      ],
+      "affiliate_search": "water pressure gauge hose bib",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "chimney-smell-summer",
+      "topic": "Why the fireplace smells in summer",
+      "hook_style": "question",
+      "hook": "Why does your fireplace stink in July?",
+      "body": "Creosote. Every fire leaves a tar-like residue in the flue, and in dry winter air it barely smells. Summer humidity soaks into it and it off-gasses that campfire-and-ashtray odor. Then the air conditioner pulls the house into negative pressure, and the chimney becomes a big open pipe to the outside, so air flows down the flue, across the creosote, and into the living room. Rain coming down an uncapped chimney makes it far worse. If it smells like something died, that might be exactly what happened, animals fall into uncapped flues constantly.",
+      "fix": "Fix: get the flue cleaned, close the damper in summer, and install a chimney cap. A top-sealing damper with a rubber gasket stops the downdraft completely and pays for itself in AC savings.",
+      "scenes": [
+        "cutaway of a masonry chimney with dark creosote coating the flue and air flowing downward into the living room",
+        "cross-section showing summer humid air soaking into creosote deposits on brick",
+        "a stainless steel chimney cap with a mesh screen on top of a brick chimney",
+        "a top-sealing damper with a rubber gasket closed at the top of a flue"
+      ],
+      "title_a": "Why Your Fireplace Smells in Summer",
+      "title_b": "The Chimney Smell That Gets Worse With the AC On",
+      "tags": [
+        "fireplace smell",
+        "chimney smell",
+        "creosote",
+        "chimney cap",
+        "summer smell",
+        "fireplace maintenance",
+        "why does my house smell",
+        "why houses do that"
+      ],
+      "affiliate_search": "chimney cap stainless",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "bathroom-fan-useless",
+      "topic": "Why the bathroom fan does nothing",
+      "hook_style": "inspector_reveal",
+      "hook": "Most bathroom fans we test move about a third of the air they are rated for.",
+      "body": "A fan is rated at, say, eighty cubic feet per minute, on a test bench with no duct. Then it gets installed with twenty feet of crushed flex duct, three bends, and a flapper on the outside that is stuck shut with paint. Real airflow drops to twenty or thirty. Half the fans we find are also full of a decade of dust. And a surprising number dump into the attic instead of outside, which is how you get attic frost and mold. The toilet paper test tells you: hold a single square up to the grille. If it does not stick on its own, the fan is not doing its job.",
+      "fix": "Fix: clean the grille and blades, check the outside flap opens, and replace flex duct with smooth rigid duct on the shortest path outside. If the fan is over fifteen years old, a new one is quieter and moves twice the air.",
+      "scenes": [
+        "cutaway of a bathroom ceiling fan with a long crushed flexible duct with several bends leading to an exterior vent",
+        "a square of toilet paper held up against a bathroom fan grille, not sticking",
+        "bathroom fan housing packed with dust and lint",
+        "comparison of a smooth rigid metal duct run versus a kinked flex duct run to an exterior wall cap"
+      ],
+      "title_a": "Why Your Bathroom Fan Does Not Work (The Toilet Paper Test)",
+      "title_b": "Your Bathroom Fan Is Probably Moving No Air",
+      "tags": [
+        "bathroom fan",
+        "bathroom exhaust fan",
+        "bathroom humidity",
+        "mold prevention",
+        "fan not working",
+        "bathroom ventilation",
+        "home maintenance",
+        "why houses do that"
+      ],
+      "affiliate_search": "bathroom exhaust fan 110 cfm",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "smoke-detector-chirp",
+      "topic": "Why smoke detectors chirp at 3 a.m.",
+      "hook_style": "question",
+      "hook": "Why does the smoke detector only chirp in the middle of the night?",
+      "body": "The low battery chirp is triggered by voltage, and battery voltage drops with temperature. Your house is coldest around three or four in the morning, the battery dips just under the threshold, and the alarm chirps. By noon it warms up and stops, so you forget. Hardwired detectors with a backup battery do the same thing. The other reason for a chirp with a fresh battery is age. Detectors have a ten year life, and many models chirp an end-of-life warning that a new battery will not silence. Dust in the sensing chamber can cause it too.",
+      "fix": "Fix: replace the battery, and hold the test button down for fifteen seconds to clear the memory. Check the date on the back; ten years old means replace the whole unit. Vacuum the vents once a year.",
+      "scenes": [
+        "cross-section of a ceiling smoke detector with a nine volt battery and a small voltage graph dipping overnight",
+        "a house at night with a temperature curve showing the coldest point before dawn",
+        "the back of a smoke detector showing a manufacture date stamp and a ten year replacement notice",
+        "a vacuum brush attachment cleaning the vents of a smoke detector"
+      ],
+      "title_a": "Why Smoke Detectors Only Chirp at 3 AM",
+      "title_b": "The Smoke Detector Chirp a New Battery Will Not Fix",
+      "tags": [
+        "smoke detector chirping",
+        "smoke alarm beeping",
+        "low battery chirp",
+        "smoke detector replace",
+        "home safety",
+        "house noises at night",
+        "why houses do that"
+      ],
+      "affiliate_search": "smoke detector 10 year battery",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "roof-shingles-curl",
+      "topic": "Why roof shingles curl and lose their grit",
+      "hook_style": "question",
+      "hook": "How do you know a roof is done from the ground?",
+      "body": "Asphalt shingles are a fiberglass mat soaked in asphalt with a coat of ceramic granules on top. The granules block UV. Once they wear off, sunlight cooks the asphalt, it dries out, and the shingle edges curl up like stale bread. The first place you will see the granules is in the gutter or at the bottom of the downspout, a little pile of what looks like coarse sand. Curling, bald spots that look shiny, and cracks across the shingle mean the roof is in its last years. A poorly ventilated attic cooks the shingles from underneath and takes five to ten years off a roof.",
+      "fix": "Fix: nothing extends a curled roof much. Budget for replacement, and when you do, make sure the roofer adds ridge and soffit ventilation so the next one lasts. Get three quotes; roofing prices vary wildly.",
+      "scenes": [
+        "cross-section of an asphalt shingle showing the fiberglass mat, asphalt layer, and ceramic granule coating",
+        "close view of shingle edges curling upward with bald shiny patches",
+        "a pile of shingle granules collected at the bottom of a downspout",
+        "cutaway of an attic with a ridge vent and soffit vents allowing airflow under the roof deck"
+      ],
+      "title_a": "How to Tell Your Roof Is Failing From the Ground",
+      "title_b": "Shingle Granules in the Gutter Mean This",
+      "tags": [
+        "roof shingles curling",
+        "roof replacement",
+        "shingle granules",
+        "roof inspection",
+        "roof age",
+        "attic ventilation",
+        "home maintenance",
+        "why houses do that"
+      ],
+      "affiliate_search": null,
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "carpet-dark-edges",
+      "topic": "Why carpet turns dark along the walls",
+      "hook_style": "inspector_reveal",
+      "hook": "Dark lines on the carpet along the baseboards are not dirt from vacuuming.",
+      "body": "That is filtration soiling. Air moves through the gap between the floor and the wall, under the baseboard, and the carpet acts as a filter, catching soot, dust, and cooking oil. The same thing happens along the edge of stair treads and under closed doors. It tells you two things: the house has a lot of air leaking between floors and walls, and the air carries a lot of fine particles, often from candles, a fireplace, or a gas stove without a hood. It is nearly impossible to clean out because the particles are oily and bind to the fibers.",
+      "fix": "Fix: seal the gap. Pull the carpet edge back, caulk where the drywall meets the subfloor, and tack it back down. Use the range hood, skip the candles, and change furnace filters. A professional cleaner can lighten it but rarely remove it.",
+      "scenes": [
+        "cross-section of a wall base showing air moving through a gap between the subfloor and drywall, carpet fibers dark with trapped particles",
+        "a bedroom with dark gray lines on the carpet along the baseboards and under the door",
+        "close view of a bead of caulk sealing the gap between drywall and subfloor with carpet pulled back",
+        "sources of fine particles in a house: candles, a gas stove, a fireplace"
+      ],
+      "title_a": "Why Your Carpet Turns Black Along the Walls",
+      "title_b": "The Dark Carpet Edges That Vacuuming Cannot Fix",
+      "tags": [
+        "carpet dark edges",
+        "filtration soiling",
+        "carpet stains walls",
+        "air leaks",
+        "indoor air quality",
+        "carpet cleaning",
+        "home explained",
+        "why houses do that"
+      ],
+      "affiliate_search": "acrylic latex caulk",
+      "safety_note": null,
+      "status": "queued"
+    },
+    {
+      "id": "faucet-drips",
+      "topic": "Why a faucet drips and why it gets worse",
+      "hook_style": "question",
+      "hook": "Why does a dripping faucet always drip faster over time?",
+      "body": "Inside every faucet is a rubber or ceramic part that presses against a seat to stop the water. On old two-handle faucets it is a rubber washer; on single-handle ones it is a cartridge. Grit and minerals score the surface, and once a tiny channel forms, high pressure water shoots through it and erodes the channel wider, so the drip accelerates. A drip per second is about three thousand gallons a year. The other cause is a worn brass seat under the washer, and a new washer on a pitted seat will drip again within weeks.",
+      "fix": "Fix: shut off the supply under the sink, pull the handle, and replace the cartridge or washer. Bring the old part to the hardware store, they match it. Dress a pitted seat with a five dollar seat wrench.",
+      "scenes": [
+        "cutaway of a single-handle faucet showing the cartridge and a worn seal letting water through",
+        "close view of a rubber washer with a groove eroded across its face",
+        "a small seat dressing tool inserted into a faucet body",
+        "an angle stop shutoff valve under a sink turned to the closed position"
+      ],
+      "title_a": "Why a Dripping Faucet Gets Worse Every Week",
+      "title_b": "One Drip Per Second Is 3,000 Gallons a Year",
+      "tags": [
+        "dripping faucet",
+        "faucet repair",
+        "faucet cartridge",
+        "leaky faucet",
+        "water waste",
+        "diy plumbing",
+        "kitchen faucet",
+        "why houses do that"
+      ],
+      "affiliate_search": "faucet cartridge puller",
+      "safety_note": null,
+      "status": "queued"
+    }
+  ]
+}
