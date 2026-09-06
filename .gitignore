@@ -1,0 +1,9 @@
+work/
+*.mp3
+*.mp4
+*.png
+*.jpg
+client_secret*.json
+token.json
+__pycache__/
+.env
